@@ -1,0 +1,1 @@
+definition := EnsureInternal(Clone(kVisualDesignerUnitFrame));definition.visualDesignerUnit := getlayout("visualDesignerUnit");DefineUnit(EnsureInternal('|visualDesignerUnit:NSB|), definition);InstallScript := func(partFrame, removeFrame) nil;RemoveScript := func(removeFrame) nil;

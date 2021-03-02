@@ -1,0 +1,1 @@
+definition := EnsureInternal(Clone(kInterpreterUnitFrame));definition.interpreterUnit := getlayout("interpreterUnit");DefineUnit(EnsureInternal('|interpreterUnit:NSB|), definition);InstallScript := func(partFrame, removeFrame) nil;RemoveScript := func(removeFrame) nil;

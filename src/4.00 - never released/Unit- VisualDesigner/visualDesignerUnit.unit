@@ -1,0 +1,1 @@
+DefConst('kVisualDesignerUnitFrame, {visualDesignerUnit: nil,});declaration := Clone(kVisualDesignerUnitFrame);declaration.visualDesignerUnit := 0;DeclareUnit('|visualDesignerUnit:NSB|, 1, 0, declaration);

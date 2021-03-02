@@ -1,0 +1,1 @@
+definition := EnsureInternal(Clone(kEditorUnitFrame));definition.editorUnit := getlayout("editorUnit");DefineUnit(EnsureInternal('|editorUnit:NSB|), definition);InstallScript := func(partFrame, removeFrame) nil;RemoveScript := func(removeFrame) nil;

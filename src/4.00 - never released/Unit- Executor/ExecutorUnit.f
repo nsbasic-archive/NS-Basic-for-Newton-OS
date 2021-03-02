@@ -1,0 +1,1 @@
+definition := EnsureInternal(Clone(kExecutorUnitFrame));definition.executorUnit := getlayout("executorUnit");DefineUnit(EnsureInternal('|executorUnit:NSB|), definition);InstallScript := func(partFrame, removeFrame) nil;RemoveScript := func(removeFrame) nil;

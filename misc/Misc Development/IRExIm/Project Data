@@ -1,0 +1,1 @@
+constant debug:=TRUE;constant kAppSymbol := '|IRExIm|;constant kPackageName := "IRExIm";constant kAppObject := '["line","lines"];constant kSoupName := "SCRATCH.BAS:NSBASIC";constant kSoupIndexes := '[{structure: slot, path: recNo, type: int}];// this turns on tracing of transactions received: slows things downconstant kTrace:=TRUE;

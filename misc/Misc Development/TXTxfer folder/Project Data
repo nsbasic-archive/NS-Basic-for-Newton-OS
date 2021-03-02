@@ -1,0 +1,1 @@
+constant debug:=TRUE;constant kAppSymbol := '|TXTxfer:NSBASIC|;constant kPackageName := "TXTxfer:NSBASIC";constant kAppObject := '["line","lines"];constant kSoupName := kPackageName;constant kSoupIndexes := '[{structure: slot, path: recNo, type: int}];// this turns on tracing of transactions received: slows things downconstant kTrace:=nil;

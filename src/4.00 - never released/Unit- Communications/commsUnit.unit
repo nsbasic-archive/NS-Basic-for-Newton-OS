@@ -1,0 +1,1 @@
+/*DeclareUnit('|commsUnit:NSB|, 1, 0, {	commsUnit:	0, BITUnit: 1});*/DefConst('kCommsUnitFrame, {commsUnit:	0, BITUnit: 1});declaration := Clone(kCommsUnitFrame);declaration.commsUnit := 0;declaration.BITUnit := 1;DeclareUnit('|commsUnit:NSB|, 1, 0, declaration);

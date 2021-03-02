@@ -1,0 +1,1 @@
+constant kCharWidth:=6;constant kCharHeight:=11;defconst('kIntercept, kRightArrowKey & kUpArrowKey & kDownArrowKey & kLeftArrowKey	 & kReturnKey & kBackSpaceKey & kEnterKey);

@@ -1,0 +1,1 @@
+DefConst('kExecutorUnitFrame, {executorUnit: nil,});declaration := Clone(kExecutorUnitFrame);declaration.executorUnit := 0;DeclareUnit('|executorUnit:NSB|, 1, 0, declaration);

@@ -1,0 +1,1 @@
+new10 rem demo 120 for i=1 to 1030 print i40 next ireplace "demo1"new10 rem demo 120 for i=10 to 1 step -130 print i40 next ireplace "demo2"run "demo1"run "demo2"

@@ -1,0 +1,1 @@
+installscript:=func(partframe)begin	nil;end;removescript:=func(partframe)begin	nil;end;
