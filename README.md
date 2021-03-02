@@ -10,4 +10,6 @@ Go ahead and open issues - I won't be fixing any of them.
 Seriously, it's 25 years since I've looked at the source. 
 I have no idea how to get the [Newton Toolkit](https://www.macintoshrepository.org/1383-newton-toolkit) running - you'll need that to compile it.
 
-There are a number of documents with no extension. Many of these will be in [WordPerfect](https://en.wikipedia.org/wiki/WordPerfect) format.
+There are a number of documents with no extension. These are probably in [WordPerfect](https://en.wikipedia.org/wiki/WordPerfect) format.
+
+George Henne
