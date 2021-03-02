@@ -12,4 +12,6 @@ I have no idea how to get the [Newton Toolkit](https://www.macintoshrepository.o
 
 There are a number of documents with no extension. These are probably in [WordPerfect](https://en.wikipedia.org/wiki/WordPerfect) format.
 
+NS BASIC for Newton was released in 1993 and was developed until 1997 when the Newton was cancelled.
+
 George Henne
