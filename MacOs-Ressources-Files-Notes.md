@@ -22,7 +22,8 @@ You can also use the .gitignore file at the root of this project as an example.
 - To rebuild the files in MacOS format when you get the files from GitHub. 
 Idem, you place yourself in the folder containing the files (resssources + raw files) and you enter the command : 
 
-``` /System/Library/CoreServices/FixupResourceForks . 
+``` 
+/System/Library/CoreServices/FixupResourceForks . 
 ```
 
 Et voilà :-)
