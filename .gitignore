@@ -1,0 +1,8 @@
+# Added specifications for the beginning of the separate resource file names # for the Mac OS format. Done with the command: 
+# SplitForks .
+# in terminal on MacOSX. The SplitForks command is installed with the MacOSX development tools (XCode)
+###################
+
+
+#For To not exclude the MasOS resource files
+!._*
