@@ -1,30 +1,9 @@
-So whilst there seems to be an issue sorting out the source code, I found a stuffit archive inside the NS Basic 4 source folder which contained the NewtCard source which wasn't corrupt (hooray!)
+I realised recently that whilst the previous version of thie file contained code which would generate serial numbers which would appear to work, something wasn't quite right, so I went back to searching again. In the MainView file, there's a very similar but sufficiently different routine for checking serial numbers which actually seems to work this time.
 
-Inside there I searched the source for "serial" and found the routine to check it: (x-10000017)%127=0
+Inside there I searched the source for "serial" and found the routine to check it: (x-1000001)%23=0
 
-I generated my own serial number by choosing a number, 20, multiplying it by 127 and adding 10000017, which gave me 10002557.
+I generated my own serial number by choosing a number, 20, multiplying it by 23 and adding 1000001, which gave me 1000461.
 
-And that serial, amazingly, works in both NewtCard and NS Basic to make the app work :) 
+And that serial finally works in NS Basic to make the app work properly :) 
 
-Here are 20 serial numbers generated using this method:
 
-10000144
-10000271
-10000398
-10000525
-10000652
-10000779
-10000906
-10001033
-10001160
-10001287
-10001414
-10001541
-10001668
-10001795
-10001922
-10002049
-10002176
-10002303
-10002430
-10002557
