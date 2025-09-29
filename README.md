@@ -14,4 +14,6 @@ There are a number of documents with no extension. These are probably in [WordPe
 
 NS BASIC for Newton was released in 1993 and was developed until 1998 when the Newton was cancelled.
 
+The install password is `246gt`. The serial number is `3000003`.
+
 George Henne
